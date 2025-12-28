@@ -14,7 +14,7 @@ Co-Founder — [SERIAL CO_ ](https://github.com/serialco)
 Core Member — [CREATIVE TECH SINGAPORE](https://github.com/ct-sg)
 
 ---
-## SELECTED WORKS
+## Selected Works
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -61,7 +61,7 @@ A physical–digital–physical circuit with waves, re-presenting simulation thr
 
 ---
 
-## TOOLCHAIN
+## Tools
 <table>
   <tr>
     <td align="center" valign="top">
@@ -153,7 +153,7 @@ A physical–digital–physical circuit with waves, re-presenting simulation thr
 
 ---
 
-## LINKS
+## Links
 [Website](https://www.jxke.co) | [Email](mailto:jxketan@gmail.com) <br>
 [Instagram](https://www.instagram.com/jxke.co) | 
 [Vimeo](https://vimeo.com/jxke) | 
