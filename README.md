@@ -18,19 +18,19 @@ Core Member — [CREATIVE TECH SINGAPORE](https://github.com/ct-sg)
 <table>
 <tr>
 <td valign="top" width="50%">
-<h4><a href="https://www.jxke.co/BIOS-Living-NFTs">BIOS: Living NFTs (2022 - 2025)</a></h4>
+<h4><a href="https://www.jxke.co/projects//bios-living-nfts">BIOS: Living NFTs (2022 - 2025)</a></h4>
 BIOSNFT is a dynamic NFT collectible project where unique plants grow over the course of 6 months.
 <br>
 <sub>Procedural · Web3 · Living 3D Systems</sub>
 <br><hr>
 
-<h4><a href="https://www.jxke.co/Archive-of-Digital-Plants">Archive of Digital Plants (2022 - 2023)</a></h4>
+<h4><a href="https://www.jxke.co/projects/archive-of-digital-plants">Archive of Digital Plants (2022 - 2023)</a></h4>
 Investigating a MRI scanned Bonsai Tree, immortalised as bytes on the Blockchain.
 <br>
 <sub>Visualisation · Data Material · Digital Nature</sub>
 <br><hr>
 
-<h4><a href="https://www.jxke.co/MRAI">MR(AI) (2023)</a></h4>
+<h4><a href="https://www.jxke.co/projects/mrai">MR(AI) (2023)</a></h4>
 Real-time Synchronisation of Jake's Heart, bpm performing and archiving.
 <br>
 <sub>Digiphysical · WatchOS + Web3 · Body/measurement</sub>
@@ -38,19 +38,19 @@ Real-time Synchronisation of Jake's Heart, bpm performing and archiving.
 </td>
 
 <td valign="top" width="50%">
-<h4><a href="https://www.jxke.co/Singularities">Singularities: Of Primordial Black Holes (2025)</a></h4>
+<h4><a href="https://www.jxke.co/projects/singularities-of-primordial-black-holes">Singularities: Of Primordial Black Holes (2025)</a></h4>
 Translating gravitational lensing into a physical, optical encounter through sculpture and silicon wafer.
 <br>
 <sub>Optics · Cosmology · Nano-etching</sub>
 <br><hr>
 
-<h4><a href="https://www.jxke.co/1-Qubit">1 Qubit (2025)</a></h4>
+<h4><a href="https://www.jxke.co/projects/1-qubit">1 Qubit (2025)</a></h4>
 A quantum artwork installation modeling the transformative state of a qubit using classical systems.
 <br>
 <sub>Quantum Simulation · Translation · Visualisation</sub>
 <br><hr>
 
-<h4><a href="https://www.jxke.co/Drawing-Waves">Drawing Waves (2025)</a></h4>
+<h4><a href="https://www.jxke.co/projects/drawing-waves">Drawing Waves (2025)</a></h4>
 A physical–digital–physical circuit with waves, re-presenting simulation through embodied form.
 <br>
 <sub>Fluid Simulation · Translation · Data Material</sub>
