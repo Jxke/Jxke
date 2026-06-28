@@ -9,6 +9,8 @@ My public repositories consist of technologies created for my artworks, projects
 
 Grad Student — Harvard University, Master in Design Engineering
 <br>
+Visiting Student Researcher — MIT Media Lab Critical Matter Group
+<br>
 Co-Founder — [SERIAL CO_ ](https://github.com/serialco)
 <br>
 Core Member — [CREATIVE TECH SINGAPORE](https://github.com/ct-sg)
